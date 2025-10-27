@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Modern Office Background -->
+  <rect width="800" height="600" fill="#f8fafc"/>
+  
+  <!-- Office Environment Elements -->
+  <rect x="50" y="100" width="700" height="400" rx="20" fill="#f1f5f9"/>
+  
+  <!-- Team Members -->
+  <circle cx="200" cy="300" r="60" fill="#0284c7"/>
+  <circle cx="400" cy="300" r="60" fill="#0284c7"/>
+  <circle cx="600" cy="300" r="60" fill="#0284c7"/>
+  
+  <!-- Desk Elements -->
+  <rect x="100" y="400" width="600" height="20" rx="10" fill="#e2e8f0"/>
+  
+  <!-- Connecting Lines -->
+  <path d="M200 300 L400 300 L600 300" stroke="#0284c7" stroke-width="4" stroke-dasharray="10"/>
+  
+  <!-- Abstract Tech Elements -->
+  <circle cx="200" cy="200" r="20" fill="#0284c7" fill-opacity="0.2"/>
+  <circle cx="400" cy="200" r="20" fill="#0284c7" fill-opacity="0.2"/>
+  <circle cx="600" cy="200" r="20" fill="#0284c7" fill-opacity="0.2"/>
+  
+  <!-- Decorative Elements -->
+  <rect x="150" y="150" width="500" height="2" fill="#0284c7" fill-opacity="0.1"/>
+  <rect x="150" y="450" width="500" height="2" fill="#0284c7" fill-opacity="0.1"/>
+</svg>
